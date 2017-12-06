@@ -1,5 +1,11 @@
 # Mike Spencer - Front End Engineer
 
+* [Download PDF](./resume.pdf)
+* [View as HTML](https://mikespencer.github.io/resumes)
+* [mikespencema@gmail.com](mikespencema@gmail.com)
+* [github.com/mikespencer](https://github.com/mikespencer)
+* [linkedin.com/in/mikeaspencer](https://linkedin.com/in/mikeaspencer)
+
 ## About me
 
 I'm a front end engineer with experience developing complex, high profile web
