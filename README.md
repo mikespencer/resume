@@ -1,122 +1,108 @@
 # Mike Spencer - Front End Engineer
 
-## Skills
-
-* JavaScript / ES6
-* React
-* Redux
-* Unit Testing
-* node.js
-* jQuery
-* HTML5, CSS3
-* Responsive Design
-* SEO
-* W3C Standards, Accessibility
-* Cross-browser compatibility
-* ActionScript 3, Flash
-* GIT
-* CoffeeScript
-* SASS/SCSS/LESS
-* PHP
-* Node.js
-* Python
-* MySQL
-* Java
-* Bash/Shell Scripting
-
 ## About me
 
-I'm a front end engineer with experience working on complex, high profile web
-applications. I specialise in JavaScript, most recently thriving in an agile
-environment leveraging modern technologies such as React and Redux.
+I'm a front end engineer with experience developing complex, high profile web
+applications collaborating with both small and large teams. I specialise in
+JavaScript, most recently thriving in an agile environment leveraging modern
+technologies such as React and Redux. I pride myself in writing scalable,
+elegant code — creating simple solutions to complex problems.
 
-<!-- 
-## Professional Objective
+## Skills
 
-To continue to enhance my web development skills in a forward thinking
-environment, while producing scalable, standards compliant code with a focus . -->
+* JavaScript/ES6
+* Node.js
+* HTML5
+* CSS3
+* SASS/SCSS/LESS
+* React
+* Redux
+* Backbone
+* jQuery
+* Handlebars
+* Responsive Design
+* TDD
+* Python
+* Java/JSP
+* PHP
 
-## Professional Experience
+## Experience
 
 ### Meetup Pro - New York, NY
 
 #### UI Engineer (January 2016 - December 2017)
 
-* Replatformed Meetup Pro from a legacy monolithic codebase to a MicroService
-  backed React + Redux isomorphic/universal SPA, leveraging the latest tools,
-  such as Reselect and FlowType.
-* Squad lead for replatforming Members and Chapters admin pages for Meetup Pro;
-  the two most powerful tools offered by Meetup Pro.
+* Architectural lead for replatforming Meetup Pro from a legacy monolithic
+  codebase to a microservice backed Hapi + React + Redux isomorphic/universal
+  SPA, leveraging the latest tools, such as Flow, Jest and Reselect.
+* Squad lead for replatforming the Members and Chapters network admin features
+  for Meetup Pro organizers; two of the most powerful features offered by Meetup
+  Pro. Responsible for breaking down/organizing/estimating tasks, keeping the
+  team in sync, writing documentation, as well as implementing features.
 * Lead the development of a React UI component library for use throughout Meetup
-  Pro. (Storybook, Flow, React, Recompose, rollup, css modules)
+  Pro. Some technologies used: Storybook for UI development and
+  documentation/cataloging, CSS modules, Flow, and Rollup among others.
 * Mentored an intern as well as junior engineers, participating in regular pair
-  programming, training sessions, code reviews
-* Pioneered/spearhead the transition to the new Meetup Web Platform. Meetup Pro
-  was the first team at Meetup to transition to the new web platform. Provided
-  feedback and helped shape the architecture of the platform.
+  programming, training sessions, code reviews.
+* Spearheaded the transition to the new Meetup Web Platform. Meetup Pro was the
+  first business line at Meetup to transition to the new web platform. I
+  provided feedback and helped shape the architecture of the web platform.
 * Evaluated and introduced tools such as Enzyme, Recompose, and Redux Form into
   Meetup Pro's SPA.
-* **Technologies Used**: _React, Redux, Flow, Reselect, Recompose, Vanilla JS_
 
 ### Meetup - New York, NY
 
 #### UI Engineer (February 2014 - January 2016)
 
-* Migrated the JavaScript build in the legacy codebase from RequireJS to
+* Migrated the JavaScript build in the Meetup codebase from RequireJS to
   Webpack, introducing tools such as Babel, empowering engineers to write better
-  code by taking advantage of es6 features.
-* Introduced unit testing into the legacy Meetup monolith App using Karma and
-  Jasmine.
-* Standardized code style in legacy Meetup by introducing JSCS.
-* Built a "contributions" feature allowing members to give money to a Meetup
-  group.
-* **Technologies Used**: _Python, Backbone, Vanilla JS, jQuery, Java, JSP,
-  Handlebars_
+  code by taking advantage of ES6 features.
+* Introduced unit testing into the Meetup codebase using Karma and Jasmine.
+* Hosted workshops on topics such as TDD, writing good unit tests, and latest
+  ES6 features.
+* Built payment related features, such as a contributions feature allowing
+  members to give money to a Meetup group, as well as a tool for managing
+  subscriptions, utilising Backbone with Handlebars templates.
+* Standardized JavaScript code style by introducing JSCS.
 
 ### The Washington Post - Washington, DC
 
 #### Manager and Lead Commercial Web Developer (Nov 2011 – February 2014)
 
-* Built and implemented custom ad executions, while coordinating with other
-  departments to ensure that they deliver flawlessly.
-* Execute never-been-done-before ad executions throughout the
-  washingtonpost.com, slate.com and theroot.com.
-* Consistently wrote efficient, scalable code to optimise website performance.
-* Member of the page performance team representing advertising with a goal of
-  optimizing website speed and performance.
-* Deployed new, improved ad scripts throughtout washingtonpost.com and its
-  family of websites.
-* Developed and Implemented "viewable impressions" for certain ads, so that
-  these ads will only render when they are actually seen.
+* Built and implemented custom ad executions while coordinating with departments
+  such as editorial and infrastructure to ensure flawless delivery.
+* Pioneered new innovative ad products throughout the washingtonpost.com,
+  slate.com, and theroot.com.
+* Wrote efficient, scalable code on a daily basis to optimize website
+  performance for The Washington Post's millions of daily users.
+* Member of the Page Performance Team with the goal of optimizing website speed
+  and performance.
+* Deployed GPT ad scripts throughout washingtonpost.com, slate.com, and
+  theroot.com to enhance website performance with fully asynchronous ad loading.
+* Developed and implemented viewable impressions for ads so that they will only
+  render when they are actually seen to improve page performance as well as ad
+  performance metrics.
 
 #### Commercial Web Developer (Oct 2009 – Nov 2011)
 
-* Worked with a team to execute custom ad executions using a variety of
-  technologies.
+* Worked as part of a team to develop custom ad executions.
 * Developed tools/applications for the Digital Sales team and provided technical
   support.
-* Built custom client websites using the MovableType CMS (eg:
-  http://chinawatch.washingtonpost.com).
+* Built custom client websites using the MovableType CMS, such as China Daily’s
+  ChinaWatch.
 * Maintained and enhanced the JavaScript that renders all of the ads on
-  washingtonpost.com, slate.com and theroot.com.
-* Debugged issues with 3rd party creative code. Built a scalable, light-weight,
-  dynamic Flash video player that is now the standard video player in custom ads
-  built in-house (https://github.com/mikespencer/vidplayer).
-* Developed a tool to quickly and easily produce code for ad placements
-  (http://ads.washingtonpost.com/acg).
+  washingtonpost.com, slate.com, and theroot.com.
+* Debugged issues with 3rd party creative code.
+* Built a scalable, lightweight, dynamic Flash video player that became the
+  standard video player in custom ad units built in-house.
+* Developed a tool to quickly and easily generate code for ad placements.
 
-### Freelance
+## Education
 
-#### Web Developer (may 2009 – oct 2009)
+### B.S. Interactive Media, School of Media Arts & Design
 
-* Developed and maintained the HTML/CSS/JavaScript on a handful of websites.
+#### James Madison University - Harrisonburg, VA (Aug 2005 – May 2009)
 
-##Education
-
-### B.S.Interactive Media, School of Media Arts & Design (Aug 2005 – May 2009)
-
-#### James Madison University - Harrisonburg, VA
-
-Focused mainly on front end web development, such as HTML, CSS and JavaScript,
-as well as the Adobe CS including Flash and ActionScript programming. I also
-completed Computer Sciences classes focusing on OOP and Java.
+* Focused on front-end web development such as HTML, CSS and JavaScript.
+* Completed Computer Science classes covering OOP and Java.
+* Studied Adobe CS including Flash and ActionScript programming.
