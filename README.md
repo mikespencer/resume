@@ -1,7 +1,7 @@
 # Mike Spencer - Front End Engineer
 
-* [Download PDF](./resume.pdf)
-* [View as HTML](https://mikespencer.github.io/resumes)
+* [Download PDF](https://github.com/mikespencer/resume/raw/master/resume.pdf)
+* [View as HTML](https://mikespencer.github.io/resume)
 * [mikespencema@gmail.com](mikespencema@gmail.com)
 * [github.com/mikespencer](https://github.com/mikespencer)
 * [linkedin.com/in/mikeaspencer](https://linkedin.com/in/mikeaspencer)
