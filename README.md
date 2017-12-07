@@ -48,6 +48,8 @@ elegant code — creating simple solutions to complex problems.
 * Led the development of a React UI component library for use throughout Meetup
   Pro. Some technologies used: Storybook for UI development and
   documentation/cataloging, CSS modules, Flow and Rollup among others.
+* Developed a multi-step signup flow for Meetup Pro, allowing members to upgrade
+  their Meetup accounts to Pro accounts.
 * Mentored an intern and junior engineers by participating in regular pair
   programming, training sessions and code reviews.
 * Spearheaded the transition to the new Meetup web platform and provided
