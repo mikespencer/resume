@@ -1,0 +1,29 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "* [Download PDF](https://github.com/mikespencer/resume/raw/master/resume.pdf) * [View as HTML](https://mikespencer.github.io/resume) * [mikespencema@gmail.com](mikespencema@gmail.com) * [github.com/mikespencer](https://github.com/mikespencer) * [linkedin.com/in/mikeaspencer](https://linkedin.com/in/mikeaspencer)",
+  "main": "index.js",
+  "scripts": {
+    "pdf": "node ./scripts/generatePDF.js",
+    "start": "serve",
+    "test": "node ./scripts/compare.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikespencer/resume.git"
+  },
+  "keywords": [],
+  "author": "Mike Spencer <mspencer@squarespace.com> (https://stash.nyc.squarespace.net/users/mspencer)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikespencer/resume/issues"
+  },
+  "homepage": "https://github.com/mikespencer/resume#readme",
+  "devDependencies": {
+    "imagemagick": "^0.1.3",
+    "puppeteer": "^1.12.2",
+    "rimraf": "^2.6.3",
+    "serve": "^10.1.2",
+    "serve-handler": "^5.0.8"
+  }
+}
