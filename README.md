@@ -10,98 +10,81 @@
 
 I'm a front end engineer with experience developing complex, high profile web
 applications collaborating with both small and large teams. I specialise in
-JavaScript, most recently thriving in an agile environment leveraging modern
-technologies such as React and Redux. I pride myself in writing scalable,
-elegant code — creating simple solutions to complex problems.
+JavaScript,thriving in an agile environmentleveraging modern technologies such
+as React and Redux. I pride myselfin writing scalable, elegant code — creating
+simple solutions to complex problems.
 
 ## Skills
 
-* JavaScript/ES6
+* JavaScript
 * Node.js
-* HTML5
-* CSS3
-* SASS/SCSS/LESS
+* TypeScript
+* HTML
+* CSS / SCSS / LESS
 * React
 * Redux
+* Webpack
+* Jest
 * Backbone
-* jQuery
-* Handlebars
 * Responsive Design
 * TDD
+* Agile
 * Python
 * Java/JSP
-* PHP
 
 ## Experience
 
-### Meetup - New York, NY
+### Squarespace ‑ New York, NY
 
-#### UI Engineer - Meetup Pro (January 2016 - December 2017)
+#### Team Lead, Interface Architecture (Aug 2019 ‑ Present)
+#### Senior Software Engineer (Jan 2019 ‑ Present)
+#### Software Engineer (Feb 2018 ‑ Jan 2019)
 
-* Architectural lead for replatforming Meetup Pro from a legacy monolithic
-  codebase to a microservice backed Hapi + React + Redux isomorphic/universal
-  SPA, leveraging the latest tools such as Flow, Jest and Reselect.
-* Squad lead for replatforming the Members and Chapters network admin features
-  for Meetup Pro organizers — two of the most powerful features offered by
-  Meetup Pro. Responsible for breaking down/organising/estimating tasks, keeping
-  the team in sync, writing documentation and implementing features.
-* Led the development of a React UI component library for use throughout Meetup
-  Pro. Some technologies used: Storybook for UI development and
-  documentation/cataloging, CSS modules, Flow and Rollup among others.
-* Developed a multi-step signup flow for Meetup Pro, allowing members to upgrade
-  their Meetup accounts to Pro accounts.
-* Mentored an intern and junior engineers by participating in regular pair
-  programming, training sessions and code reviews.
-* Spearheaded the transition to the new Meetup web platform and provided
-  feedback to shape the architecture of it.
-* Evaluated and introduced tools such as Enzyme, Recompose and Redux Form into
-  Meetup Pro's SPA.
+* Led a team of 5 engineers practicing agile methodoligies to iteratively release quality products.
+* Architected and orchestrated the development of a modularised suite of tools for setting up the front end
+  infrastructure for web applications and libraries, including build, i18n, linting and testing setups.
+* Mentored and provided feedback to engineers through code reviews and pair programming.
+* Proposed and led a project to convert the CMS's custom JavaScript router to TypeScript, add sufficient
+  unit, integration and e2e test coverage and to refactor the router to be more effective.
+* Supported and streamlined the CMS's front end CI pipeline and development workflows by building custom integrations
+  into tools such as Webpack, Babel, Jest and ESLint.
+* Maintained the overarching front end architecture of the CMS, including a custom JavaScript router and the front end
+  automated testing infrastructure.
 
 ### Meetup - New York, NY
 
-#### UI Engineer (February 2014 - January 2016)
+#### UI Engineer (Jan 2016 - Dec 2017)
 
-* Migrated the JavaScript build in the Meetup codebase from RequireJS to Webpack
-  — introducing tools such as Babel, empowering engineers to write better code
-  by taking advantage of ES6 features.
-* Introduced unit testing into the Meetup codebase using Karma and Jasmine.
-* Hosted workshops on topics such as TDD, writing good unit tests and latest ES6
-  features.
-* Built payment related features, including contributions allowing members to
-  give money to a Meetup group and a subscription management tool utilising
-  Backbone with Handlebars templates.
-* Standardised JavaScript code style by introducing JSCS.
+* Architectural lead for replatforming Meetup Pro from a legacy monolithic codebase to a microservice backed Hapi +
+  React + Redux isomorphic/universal SPA, leveraging the latest tools such as Flow, Jest and Reselect.
+* Squad lead for replatforming the Members and Chapters network admin features for Meetup Pro organizers — two of the
+  most powerful features offered by Meetup Pro. Responsible for breaking down/organising/estimating tasks, keeping the
+  team in sync, writing documentation and implementing features.
+* Led the development of a React UI component library for use throughout Meetup Pro. Some technologies used: Storybook
+  for UI development and documentation/cataloging, CSS modules, Flow and Rollup among others.
+* Developed a multi-step signup flow for Meetup Pro, allowing members to upgrade their Meetup accounts to Pro accounts.
+* Mentored an intern and junior engineers by participating in regular pair programming, training sessions and code
+  reviews.
+* Spearheaded the transition to the new Meetup web platform and provided feedback to shape the architecture of it.
+* Evaluated and introduced tools such as Enzyme, Recompose and Redux Form into Meetup Pro's SPA.
+* Migrated the JavaScript build in the legacy Meetup codebase from RequireJS to Webpack — introducing tools such as
+  Babel, empowering engineers to write better code by taking advantage of ES6 features.
+* Introduced unit testing into the legacy Meetup codebase using Karma and Jasmine.
+* Hosted workshops on topics such as TDD, writing good unit tests and latest ES6 features.
 
 ### The Washington Post - Washington, DC
 
-#### Manager and Lead Commercial Web Developer (Nov 2011 – February 2014)
-
-* Built and implemented custom ad executions while coordinating with departments
-  such as editorial and infrastructure to ensure flawless delivery.
-* Pioneered new innovative ad products throughout the washingtonpost.com,
-  slate.com and theroot.com.
-* Wrote efficient, scalable code on a daily basis to optimise website
-  performance for The Washington Post's millions of daily users.
-* Member of the Page Performance Team with the goal of optimising website speed
-  and performance.
-* Deployed GPT ad scripts throughout washingtonpost.com, slate.com and
-  theroot.com to enhance website performance with fully asynchronous ad loading.
-* Developed and implemented viewable impressions for ads so that they will only
-  render when they are actually seen to improve page performance as well as ad
-  performance metrics.
+#### Manager and Lead Commercial Web Developer (Nov 2011 – Feb 2014)
 
 #### Commercial Web Developer (Oct 2009 – Nov 2011)
 
-* Worked as part of a team to develop custom ad executions.
-* Developed tools/applications for the Digital Sales team and provided technical
-  support.
-* Built custom client websites using the MovableType CMS, such as China Daily's
-  ChinaWatch.
-* Maintained and enhanced the JavaScript that renders all of the ads on
-  washingtonpost.com, slate.com and theroot.com.
-* Debugged issues with 3rd party creative code.
-* Built a scalable, lightweight, dynamic Flash video player that became the
-  standard video player in custom ad units built in-house.
+* Built and implemented custom ad executions while coordinating with departments such as editorial and infrastructure to ensure flawless delivery.
+* Deployed GPT ad scripts throughout washingtonpost.com, slate.com and theroot.com to enhance website performance with fully asynchronous ad loading.
+* Developed and implemented viewable impressions for ads so that they will only render when they are actually seen to improve page performance and ad
+  performance metrics.
+* Built custom client websites using the MovableType CMS, such as China Daily's ChinaWatch.
+* Maintained and enhanced the JavaScript that renders all of the ads on washingtonpost.com, slate.com and theroot.com.
+* Built a scalable, lightweight, dynamic Flash video player that became the standard video player in custom ad units built in-house.
 * Developed a tool to quickly and easily generate code for ad placements.
 
 ## Education
