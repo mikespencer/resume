@@ -44,7 +44,7 @@ simple solutions to complex problems.
 * Architected and orchestrated the development of a modularised suite of tools for setting up the front end
   infrastructure for web applications and libraries, including build, i18n, linting and testing setups.
 * Mentored and provided feedback to engineers through code reviews and pair programming.
-* Proposed and led a project to convert the CMS's custom JavaScript router to TypeScript, add sufficient
+* Pioneered and led a project to convert the CMS's custom JavaScript router to TypeScript, add sufficient
   unit, integration and e2e test coverage and to refactor the router to be more effective.
 * Supported and streamlined the CMS's front end CI pipeline and development workflows by building custom integrations
   into tools such as Webpack, Babel, Jest and ESLint.
