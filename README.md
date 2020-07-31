@@ -36,8 +36,8 @@ simple solutions to complex problems.
 
 ### Squarespace ‑ New York, NY
 
-#### Team Lead, Interface Architecture (Aug 2019 ‑ Present)
-#### Senior Software Engineer (Jan 2019 ‑ Present)
+#### Team Lead, Interface Architecture (Aug 2019 ‑ July 2020)
+#### Senior Software Engineer (Jan 2019 ‑ July 2020)
 #### Software Engineer (Feb 2018 ‑ Jan 2019)
 
 * Led a team of 5 engineers practicing agile methodoligies to iteratively release quality products.
